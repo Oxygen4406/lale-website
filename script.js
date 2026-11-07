@@ -1,4 +1,4 @@
-<script>
+
 /* ===== LALÉ + SUPABASE ===== */
 const SUPABASE_URL="https://ccfpolggvqcojzbsohyy.supabase.co";
 const SUPABASE_ANON_KEY="sb_publishable_FyCV1ZuXD7JK_3O_-QXqIg_AuFPj6YT";
