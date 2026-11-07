@@ -898,4 +898,4 @@ addEventListener("hashchange",()=>{
   toast("Veritabanı bağlantısı kurulamadı: "+e.message);
  }
 })();
-</script>
+
